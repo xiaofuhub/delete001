@@ -20,6 +20,7 @@ end type
 global w_01 w_01
 
 event open;//001
+//0033
 end event
 
 on w_01.create
