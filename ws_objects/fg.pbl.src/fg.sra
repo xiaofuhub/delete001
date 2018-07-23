@@ -33,5 +33,7 @@ destroy(message)
 end on
 
 event open;//fdsfd 00
+//001
+//002
 end event
 
