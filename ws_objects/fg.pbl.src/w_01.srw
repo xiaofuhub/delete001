@@ -24,6 +24,7 @@ event open;//001
 //00333
 //0021
 //00101
+//ty
 end event
 
 on w_01.create
