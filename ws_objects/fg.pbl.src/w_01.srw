@@ -22,6 +22,9 @@ global w_01 w_01
 event open;//001
 //0033
 //00333
+//0021
+//00101
+//ty
 end event
 
 on w_01.create
