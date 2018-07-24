@@ -23,6 +23,7 @@ event open;//001
 //0033
 //00333
 //test01
+//test02
 end event
 
 on w_01.create
